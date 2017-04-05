@@ -1,0 +1,22 @@
+From fc557f29e484c1ea03fab33ae6558ecbb79de48e Mon Sep 17 00:00:00 2001
+From: "SOFTSERVE\\dvasy" <dmytrovasyliuk96@gmail.com>
+Date: Tue, 4 Apr 2017 14:47:56 +0300
+Subject: [PATCH] 2132
+
+---
+ website/css/style.css | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/website/css/style.css b/website/css/style.css
+index 0900a18..2d6df29 100644
+--- a/website/css/style.css
++++ b/website/css/style.css
+@@ -1,4 +1,4 @@
+-@import url('https://fonts.googleapis.com/css?family=Open+Sans');
++dasd@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+ img {
+   filter: gray; /* IE6-9 */
+   -webkit-filter: grayscale(1); /* Google Chrome, Safari 6+ & Opera 15+ */
+-- 
+2.12.2.windows.2
+
